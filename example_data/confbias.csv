@@ -1,0 +1,11 @@
+participant,initial_belief,evidence_type,evidence_rating
+1,6.0,supporting,6.5
+1,6.0,opposing,4.2
+2,5.5,supporting,6.0
+2,5.5,opposing,3.8
+3,4.0,supporting,5.0
+3,4.0,opposing,3.5
+4,6.5,supporting,7.0
+4,6.5,opposing,4.0
+5,3.5,supporting,4.8
+5,3.5,opposing,3.2
